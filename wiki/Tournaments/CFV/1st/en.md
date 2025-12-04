@@ -25,7 +25,7 @@ The **Cute Female Vocal 1st** (***CFV 1st***) was a 1v1 osu!mania 4K tournament 
 | Round of 16 | 2023-12-15/2023-12-17 |
 | Quarterfinals | 2023-12-22/2023-12-24 |
 | Semifinals | 2023-12-29/2023-12-31 |
-| Finals | 2024-01-05/2024-01-207 |
+| Finals | 2024-01-05/2024-01-07 |
 | Grand Finals | 2024-01-12/2024-01-14 |
 
 ## Prizes
